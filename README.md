@@ -3,7 +3,8 @@ A Library to control Clevo laptop Fans and Keyboard lights.
 Create for Clevo P670RS-G but may work on other models.
 
 # Requires
-The `OpenHardwareMonitor.Hardware` library (.\Libraries\OpenHardwareMonitorLib.dll) for `Clevo.Sensor` to work.
+The `OpenHardwareMonitor.Hardware` library (.\Libraries\OpenHardwareMonitorLib.dll) for `Clevo.Sensor` to work.  
+The Clevo `Control Center` software installed for `ClevoBridge` to work.
 
 # Keyboard Lights Example
 ```csharp
