@@ -1,6 +1,6 @@
 # Sverto.Clevo
 A Library to control Clevo laptop Fans and Keyboard lights.  
-Create for Clevo P670RS-G but may work on other models.
+Created for Clevo P670RS-G but may work on other models.
 
 # Requires
 The `OpenHardwareMonitor.Hardware` library (.\Libraries\OpenHardwareMonitorLib.dll) for `Clevo.Sensor` to work.  
