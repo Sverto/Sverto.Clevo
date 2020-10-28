@@ -2,11 +2,11 @@
 A Library to control Clevo laptop Fans and Keyboard lights.  
 Created for Clevo P670RS-G but may work on other models.
 
-# Requires
+## Requires
 The `OpenHardwareMonitor.Hardware` library (.\Libraries\OpenHardwareMonitorLib.dll) for `Clevo.Sensor` to work.  
 The Clevo `Control Center` software installed for `ClevoBridge` to work.
 
-# Keyboard Lights Example
+## Keyboard Lights Example
 ```csharp
 using Sverto.Clevo;
 using Sverto.Clevo.Keyboard;
@@ -37,7 +37,7 @@ namespace ExampleApp
 }
 ```
 
-# Fanspeed Example
+## Fanspeed Example
 ```csharp
 using Sverto.Clevo;
 using Sverto.Clevo.Fans;
